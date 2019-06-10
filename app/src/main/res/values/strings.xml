@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">随机大转盘</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_select_all">全选</string>
+    <string name="empty_text">快去添加隨机项吧！</string>
+    <string name="add_random_title">添加</string>
+    <string name="add_random_content">添加新的随机项</string>
+    <string name="start_random">开始随机</string>
+    <string name="random_data_title">随机备选项</string>
+    <string name="delete_title">删除随机项</string>
+    <string name="delete_content">确定要删除随机项“<xliff:g id="name">%s</xliff:g>”吗</string>
+    <string name="toast_empty_data">请先添加至少两个随机项！</string>
+    <string name="toast_check_empty_data">请先选择至少两个随机项！</string>
+    <string name="history">选择其他组使用过的随机项（敬请期待）</string>
+</resources>
